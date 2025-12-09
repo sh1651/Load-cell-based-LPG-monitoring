@@ -1,5 +1,3 @@
-📦 LPG Monitoring System (IoT-Based Gas Level & Leak Detection)
-
 🎯 Project Objectives
 
 Monitor gas leakage and instantly alert the customer
